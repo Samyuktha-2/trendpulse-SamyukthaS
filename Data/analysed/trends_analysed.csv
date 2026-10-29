@@ -1,0 +1,82 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+49873241,Thinking fast and slow in AI: The role of metacognition (2021),technology,63,9,teleforce,2026-09-28 07:02:27.652654,0.140625,False
+49869755,Malleable software: Restoring user agency in a world of locked-down apps (2025),technology,47,14,evakhoury,2026-09-28 07:02:27.652703,0.2916666666666667,False
+49857281,There is more to code review than (automatable) detection,technology,116,58,utiiiD,2026-09-28 07:02:27.652728,0.49572649572649574,False
+49868404,Don't couple your Go code to GitHub,technology,215,98,birdculture,2026-09-28 07:02:27.652751,0.4537037037037037,True
+49849409,Writing Efficient C++ Code (2013),technology,146,97,ibobev,2026-09-28 07:02:27.652804,0.6598639455782312,True
+49856885,Fakecloud: Local AWS cloud emulator for integration tests,technology,131,64,theanonymousone,2026-09-28 07:02:27.652819,0.48484848484848486,False
+49872864,TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14,technology,16,9,EfrainGaray,2026-09-28 07:02:27.652828,0.5294117647058824,False
+49867775,Show HN: TinyAIArena watch AI agents battle it out,technology,106,43,hp6,2026-09-28 07:02:27.652845,0.40186915887850466,False
+49867486,The Normalization of Inexplicable Failures,technology,260,107,pxx,2026-09-28 07:02:27.652855,0.4099616858237548,True
+49868753,"Calling the AI bluff: Adding ""Do not guess"" cut made-up claims from 71% to 20%",technology,39,8,FKJ,2026-09-28 07:02:27.652865,0.2,False
+49867067,On caring for user data: NeoVim caused Vim undo files to be deleted,technology,365,324,jandeboevrie,2026-09-28 07:02:27.652876,0.8852459016393442,True
+49870377,Luarocks.org remote code execution exploit,technology,21,1,cupcakerob,2026-09-28 07:02:27.652899,0.045454545454545456,False
+49872883,Nissan's third generation e-POWER powertrain,technology,39,47,mroche,2026-09-28 07:02:27.652913,1.175,False
+49866534,Ten lines of code that changed my world,technology,125,39,dimonomid,2026-09-28 07:02:27.652925,0.30952380952380953,False
+49872468,OpenAI pauses training of latest models after agents probed US Government sites,technology,18,1,daniel_iversen,2026-09-28 07:02:27.652941,0.05263157894736842,False
+49872200,Cambrian Explosion of AI,technology,5,6,debarshri,2026-09-28 07:02:27.652953,1.0,False
+49872365,Every Household in This Rural Town Receives $10k If a Data Center Gets Built,technology,23,20,JumpCrisscross,2026-09-28 07:02:27.652969,0.8333333333333334,False
+49857132,Golang: Crypto/fips140: do not bloat crypto code unnecessarily,technology,15,2,zx2c4,2026-09-28 07:02:27.652975,0.125,False
+49863864,Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI,technology,611,600,papergirl,2026-09-28 07:02:27.652990,0.9803921568627451,True
+49868083,"There are no ""rogue"" AI agents",technology,357,250,zzzeek,2026-09-28 07:02:27.653008,0.6983240223463687,True
+49851883,Generate fonts where every LLM token is the same width,technology,87,23,z-mach9,2026-09-28 07:02:27.653024,0.26136363636363635,False
+49849985,Revealing the details of how OpenAI agents hacked Hugging Face,technology,742,463,specked-citrus,2026-09-28 07:02:27.653045,0.6231493943472409,True
+49869904,Show HN: A bookshelf of rare company documents and out-of-print tech books,technology,10,0,miletus,2026-09-28 07:02:27.653050,0.0,False
+49854416,Floci: Locally emulating any cloud service,technology,208,48,theanonymousone,2026-09-28 07:02:27.653068,0.22966507177033493,True
+49872507,"""The refrigerator is dead"": Samsung's AI fridges shut down after update",technology,9,3,RachelF,2026-09-28 07:02:27.653075,0.3,False
+49871846,The Great Crime Decline Is Happening All Across the Country,worldnews,32,37,andsoitis,2026-09-28 07:02:29.653576,1.121212121212121,False
+49864642,"Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",worldnews,435,288,rbanffy,2026-09-28 07:02:29.653683,0.6605504587155964,True
+49832768,A searchable library of forgotten public-domain film clips from 1915 onward,worldnews,210,27,momentmaker,2026-09-28 07:02:29.653713,0.12796208530805686,True
+49872636,"Comet SWAN26Q – The unconfirmed Scout object warrants monitoring, not concern",worldnews,5,0,JEOFFEZZ,2026-09-28 07:02:29.653754,0.0,False
+49856665,OpenAI bots meddled with multiple US Government agency sites,worldnews,128,192,Betelbuddy,2026-09-28 07:02:29.653825,1.4883720930232558,False
+49871877,Judge orders release of records on Nazi war criminals who settled in Canada,worldnews,25,6,Teever,2026-09-28 07:02:29.653869,0.23076923076923078,False
+49833867,Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design,worldnews,419,141,sidharthkmenon,2026-09-28 07:02:29.653926,0.3357142857142857,True
+49841563,Dutch governments builds alternative for Microsoft based on NixOS,worldnews,1009,579,fjfaase,2026-09-28 07:02:29.653986,0.5732673267326732,True
+49829960,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,worldnews,323,330,nonfamous,2026-09-28 07:02:29.654076,1.0185185185185186,True
+49860011,New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature,worldnews,28,1,trimbo,2026-09-28 07:02:29.654125,0.034482758620689655,False
+49864790,OpenAI pauses training of latest models after agents probed US Government sites,worldnews,16,1,ml-student,2026-09-28 07:02:29.654181,0.058823529411764705,False
+49811429,Data-only attacks are easier than you think (2024),worldnews,102,44,segfaultbuserr,2026-09-28 07:02:29.654189,0.42718446601941745,False
+49811065,Transit rewards,worldnews,258,345,raybb,2026-09-28 07:02:29.654278,1.332046332046332,True
+49832406,GitHub has not removed malicious imitation software after 3 weeks,worldnews,275,119,hermitcrab,2026-09-28 07:02:29.654285,0.4311594202898551,True
+49828409,Starlink ground station in Poland hit by fire in suspected arson attack,worldnews,181,181,giuliomagnifico,2026-09-28 07:02:29.654297,0.9945054945054945,True
+49835913,August 27 TCRF DDoS Attack Postmortem,worldnews,34,14,panic,2026-09-28 07:02:29.654311,0.4,False
+49869242,How the Smithsonian became the latest front in Trump's culture war,worldnews,9,0,rbanffy,2026-09-28 07:02:29.654447,0.0,False
+49808109,The UV index is not the warm sensation of sunlight on bare skin,worldnews,99,79,evakhoury,2026-09-28 07:02:29.654473,0.79,False
+49851355,OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites,worldnews,62,14,jbegley,2026-09-28 07:02:29.654491,0.2222222222222222,False
+49847926,Towards GPU Type Inference,worldnews,8,0,winwang,2026-09-28 07:02:29.654552,0.0,False
+49836378,DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned,worldnews,18,0,MBCook,2026-09-28 07:02:29.654658,0.0,False
+49826285,"OpenAI agent 'infiltrated' Australian government website, PM says",worldnews,11,2,Ozymandias-9,2026-09-28 07:02:29.654677,0.16666666666666666,False
+49849820,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,sports,63,43,msephton,2026-09-28 07:02:31.655582,0.671875,False
+49844642,What happens when you analyze your favorite college football team like the CIA?,sports,64,35,adam,2026-09-28 07:02:31.655653,0.5384615384615384,False
+49836590,The Board Game of the Alpha Nerds (2014),sports,122,65,neonate,2026-09-28 07:02:31.655757,0.5284552845528455,False
+49857528,Show HN: A Claude Code skill to analyze your chess games,sports,75,55,brumar,2026-09-28 07:02:31.655983,0.7236842105263158,False
+49849406,Time Measurement in Game Programming,sports,13,0,ibobev,2026-09-28 07:02:31.656100,0.0,False
+49857651,Banks and Credit Unions to Team Up Against Apple Pay Fees,sports,124,127,Brajeshwar,2026-09-28 07:02:31.656121,1.016,False
+49829387,Hackers influence ChatGPT and Gemini to direct users to scam centers,sports,142,52,ArielSimon,2026-09-28 07:02:31.656273,0.36363636363636365,True
+49847157,Show HN: I made a WWI dogfight game that runs in the browser,sports,7,7,fullstackwife,2026-09-28 07:02:31.656493,0.875,False
+49866951,"In an $80 motel room, a discovery to shed light on the origins of life",science,237,85,danso,2026-09-28 07:02:33.657032,0.35714285714285715,True
+49872497,Research finds 485 chemicals in US pesticide products linked to breast cancer,science,82,25,Teever,2026-09-28 07:02:33.657210,0.30120481927710846,False
+49839438,"Biology might not be quantum, but its math is quantumlike",science,120,60,pseudolus,2026-09-28 07:02:33.657421,0.49586776859504134,False
+49872143,The Truth Physics Can No Longer Ignore,science,9,10,jdkee,2026-09-28 07:02:33.657650,1.0,False
+49830606,Google’s Project Suncatcher to put ML infrastructure in space,science,232,540,xnx,2026-09-28 07:02:33.657946,2.3175965665236054,True
+49868561,Flock seeks to have security researchers' map of Flock cameras taken down,science,8,2,sbulaev,2026-09-28 07:02:33.658121,0.2222222222222222,False
+49853918,Alberta's image as world's only rat-free region shattered by discovery of rat,science,47,34,pseudolus,2026-09-28 07:02:33.658158,0.7083333333333334,False
+49835866,Ask HN: Any nerds out there who've read a lot of research papers?,science,29,27,shriy-singh,2026-09-28 07:02:33.658389,0.9,False
+49824969,FLAWED's Flaws and What This Means for Industry Research,science,24,4,tob_scott_a,2026-09-28 07:02:33.658551,0.16,False
+49869574,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,entertainment,215,94,safaelmali,2026-09-28 07:02:35.659359,0.4351851851851852,True
+49872766,"Musk, the Movie",entertainment,136,70,yablak,2026-09-28 07:02:35.659525,0.5109489051094891,False
+49870394,"Show HN: Cartopolis, interactive globe-sized 3D world",entertainment,15,3,jvanveen,2026-09-28 07:02:35.659553,0.1875,False
+49845172,Show HN: Jev Plays Pokémon Red,entertainment,272,119,pancomplex,2026-09-28 07:02:35.659592,0.4358974358974359,True
+49858513,Show HN: Reladraw – A diagram language where you decide where to place things,entertainment,393,113,jpwalsh234,2026-09-28 07:02:35.659675,0.2868020304568528,True
+49870654,Show HN: Jevdit – a social network moderated by Jev,entertainment,9,0,TN1ck,2026-09-28 07:02:35.659748,0.0,False
+49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,entertainment,418,106,pseudolus,2026-09-28 07:02:35.659865,0.2529832935560859,True
+49849986,Show HN: Ekselio – Loveable for finance workflows (local first),entertainment,40,10,kdautaj,2026-09-28 07:02:35.659893,0.24390243902439024,False
+49824144,Show HN: A CC0 museum of retro 3D tricks you can paste into a page,entertainment,70,13,SouthWestAtlas,2026-09-28 07:02:35.659902,0.18309859154929578,False
+49867443,"Show HN: High-performance, zero-dependency charting engine for Svelte",entertainment,6,0,bonguynvan,2026-09-28 07:02:35.659966,0.0,False
+49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,entertainment,86,28,andrearitossa,2026-09-28 07:02:35.660055,0.3218390804597701,False
+49866597,"Show HN: Building a Markdown editor for Mac, iOS and web",entertainment,65,49,thiagoperes,2026-09-28 07:02:35.660126,0.7424242424242424,False
+49858409,"Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",entertainment,20,2,jsLavaGoat,2026-09-28 07:02:35.660284,0.09523809523809523,False
+49827375,Show HN: Air-gapped file encryption as self-decrypting HTML page,entertainment,90,31,emurlin,2026-09-28 07:02:35.660387,0.34065934065934067,False
+49821438,Show HN: AgentRun: DSL to turn agents into workflows,entertainment,51,12,miguelrios,2026-09-28 07:02:35.660410,0.23076923076923078,False
+49837006,Show HN: Koi.rest – watch some fish and regain your balance,entertainment,226,65,hxii,2026-09-28 07:02:35.660464,0.28634361233480177,True
+49804359,Show HN: Treepeat – Code similarity detection using Tree-sitter,entertainment,73,8,91awebsi,2026-09-28 07:02:35.660486,0.10810810810810811,False
